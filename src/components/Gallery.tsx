@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { X, ChevronLeft, ChevronRight, ZoomIn } from 'lucide-react';
 const galleryImages = [{
   id: 1,
-  src: 'https://images.unsplash.com/photo-1559339352-11d035aa65de?q=80&w=1000&auto=format&fit=crop',
+  src: '/plat.jpeg',
   alt: 'Fresh Seafood Platter',
   category: 'Food'
 }, {
@@ -13,7 +13,7 @@ const galleryImages = [{
   category: 'Interior'
 }, {
   id: 3,
-  src: 'https://images.unsplash.com/photo-1565557623262-b51c2513a641?q=80&w=1000&auto=format&fit=crop',
+  src: '/grilled.jpg',
   alt: 'Grilled Fish Dish',
   category: 'Food'
 }, {
