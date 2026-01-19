@@ -28,7 +28,7 @@ const galleryImages = [{
   category: 'Food'
 }, {
   id: 6,
-  src:'/rec.jpg',
+  src:'/res.jpg',
   alt: 'Restaurant Interior',
   category: 'Interior'
 }];
