@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { X, ChevronLeft, ChevronRight, ZoomIn } from 'lucide-react';
 const galleryImages = [{
   id: 1,
-  src: '/plat.jpeg',
+  src: '/plat.jpg',
   alt: 'Fresh Seafood Platter',
   category: 'Food'
 }, {
